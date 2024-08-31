@@ -6,9 +6,13 @@ GallerySlide is a simple and elegant image slider that can be used to showcase a
 
 ## Features
 Responsive design that adapts to different screen sizes
+
 Navigation controls (next and previous buttons)
+
 Thumbnails for easy image selection
+
 Automatic slideshow functionality with customizable interval
+
 Simple and elegant design
 
 ## Usage
